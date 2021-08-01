@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d0509434.chunk.js",
+    "main.js.map": "/static/js/main.d0509434.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f9134d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f9134d3.js.map",
+    "static/css/2.4b8de932.chunk.css": "/static/css/2.4b8de932.chunk.css",
+    "static/js/2.f70ba994.chunk.js": "/static/js/2.f70ba994.chunk.js",
+    "static/js/2.f70ba994.chunk.js.map": "/static/js/2.f70ba994.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4b8de932.chunk.css.map": "/static/css/2.4b8de932.chunk.css.map",
+    "static/js/2.f70ba994.chunk.js.LICENSE.txt": "/static/js/2.f70ba994.chunk.js.LICENSE.txt",
+    "static/media/logo.d9039db0.svg": "/static/media/logo.d9039db0.svg",
+    "static/media/100.css": "/static/media/raleway-vietnamese-100-normal.6a008617.woff2",
+    "static/media/200.css": "/static/media/raleway-vietnamese-200-normal.1c683d7f.woff2",
+    "static/media/300.css": "/static/media/raleway-vietnamese-300-normal.c8cca8c8.woff2",
+    "static/media/400.css": "/static/media/raleway-vietnamese-400-normal.8efa7e0a.woff2",
+    "static/media/500.css": "/static/media/raleway-vietnamese-500-normal.0dccf4fb.woff2",
+    "static/media/600.css": "/static/media/raleway-vietnamese-600-normal.175ac4dc.woff2",
+    "static/media/700.css": "/static/media/raleway-vietnamese-700-normal.b1da2091.woff2",
+    "static/media/800.css": "/static/media/raleway-vietnamese-800-normal.7150a1ad.woff2",
+    "static/media/900.css": "/static/media/raleway-vietnamese-900-normal.33c12e91.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f9134d3.js",
+    "static/css/2.4b8de932.chunk.css",
+    "static/js/2.f70ba994.chunk.js",
+    "static/js/main.d0509434.chunk.js"
+  ]
+}
